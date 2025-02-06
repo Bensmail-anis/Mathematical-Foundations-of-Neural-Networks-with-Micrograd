@@ -3,4 +3,5 @@ This repository is designed for educational purposes to help participants explor
 
 Understanding Micrograd at the scalar level offers a great way to grasp how PyTorch's built-in classes function. By exploring how each Value class manages its children to construct an accurate topological sorting graph for backpropagation, we gain deeper insights into computational graph structures. This presents an excellent opportunity to manually implement gradient calculations through the graph, which enhances comprehension of fundamental concepts like automatic differentiation. Micrograd's simplicity makes it ideal for learning these principles without the complexity of large-scale frameworks
 
-![micro](https://github.com/user-attachments/assets/b6f7e74f-cdfa-4571-82fd-a52021a370e8)
+
+![probabilities](Assets/micro_visualization.png)
