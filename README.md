@@ -5,3 +5,24 @@ Understanding Micrograd at the scalar level offers a great way to grasp how PyTo
 
 
 ![probabilities](Assets/micro_visualization.png)
+
+## Setup and Execution :
+Go to the **src** :
+
+1. Create a Virtual Environment::
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+2. Install Requirements::
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Build/Modify "mlp_training.py" and highlight your understanding by Executing the mlp network::
+```bash
+pip mlp_training.py
+```
