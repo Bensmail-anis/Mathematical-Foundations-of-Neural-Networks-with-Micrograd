@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+*.cover
+*.py,cover
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# MacOS system files
+.DS_Store
+
+# PyCharm
+*.iml
+out/
+
+# Docker
+docker-compose.override.yml
+
+# Pytest
+.cache/
+
+# TensorFlow/Torch model checkpoints
+checkpoints/
+*.ckpt

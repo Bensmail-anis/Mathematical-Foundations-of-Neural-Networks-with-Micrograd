@@ -1,6 +1,6 @@
 import random
 import math
-from Src.micrograd_engine import Value
+from micrograd_engine import Value
 
 class Neuron:
 
